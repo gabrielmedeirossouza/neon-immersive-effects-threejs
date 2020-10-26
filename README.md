@@ -16,3 +16,5 @@ $ npm run app
 ```
 
 Open in your browser: http://127.0.0.1:3000
+
+![alt text](https://github.com/gabrielmedeirossouza/neon-immersive-effects-threejs/blob/main/giphy.webp)
